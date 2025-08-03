@@ -1,0 +1,64 @@
+{
+  "homepages": {
+    "News Homepage": {
+      "alias": "Minecraft 新闻",
+      "link": "https://news.bugjump.net",
+      "desc": "在 PCL2 中提供 MC 相关新闻的主页, 由 HomepageBuilder 驱动",
+      "preset": true
+    },
+    "Simple Mainpage": {
+      "alias": "简单主页",
+      "link": "https://news.bugjump.net",
+      "desc": "An useful mainpage based on PCL2 by 龙腾猫跃",
+      "preset": true
+    },
+    "Daily Modpack": {
+      "alias": "每日整合包推荐",
+      "link": "https://pclsub.sodamc.com",
+      "desc": "每日推荐整合包 资源来自cf 目前已已翻译约9k篇整合包介绍 后续持续更新 已做好访问限制 长期运行",
+      "preset": true
+    },
+    "Daily Skin": {
+      "alias": "Minecraft 皮肤推荐",
+      "link": "https://forgepixel.com/pcl_sub_file",
+      "desc": "内容每两小时更新16条（之后可能会改），资源来自 Forgepixel 皮肤站（约40万+皮肤）",
+      "preset": true
+    },
+    "OpenBMCLAPI Dashboard": {
+      "alias": "OpenBMCLAPI 仪表盘 Lite",
+      "link": "https://pcl-bmcl.milu.ink",
+      "desc": "实时查看当前 BMCLAPI 镜像源的下载负载和压力。",
+      "preset": true
+    },
+    "Homepage Market": {
+      "alias": "PCL 主页市场",
+      "link": "http://pclhomeplazaoss.lingyunawa.top:26994/d/Homepages/JingHai-Lingyun/Custom.xaml",
+      "desc": "这里是 PCL 主页市场，用于分享未被载入预设的主页。",
+      "preset": true
+    },
+    "Update Homepage": {
+      "alias": "PCL 新闻速报",
+      "link": "http://pclhomeplazaoss.lingyunawa.top:26994/d/Homepages/Joker2184/UpdateHomepage.xaml",
+      "desc": "在 PCL2 中提供 PCL 更新日志 or 龙猫说的主页, 由 HomepageBuilder 驱动",
+      "preset": true
+    },
+    "WhatsNew": {
+      "alias": "PCL 新功能说明书",
+      "link": "https://raw.gitcode.com/WForst-Breeze/WhatsNewPCL/raw/main/Custom.xaml",
+      "desc": "一个 PCL 自定义主页，旨在展示 PCL 每个大版本的主要更新内容和新功能的使用方法。",
+      "preset": true
+    },
+    "PCL2 GitHub Dashboard": {
+      "alias": "PCL GitHub 仪表盘",
+      "link": "https://raw.gitcode.com/Deep-Dark-Forest/PCL2-GitHub-Dashboard-Homepage/raw/main/custom.xaml",
+      "desc": "PCL GitHub 仓库仪表盘自定义主页",
+      "preset": true
+    },
+    "Megazine Homepage": {
+      "alias": "杂志主页",
+      "link": "http://pclhomeplazaoss.lingyunawa.top:26995/d/Homepages/Ext1nguisher/Custom.xaml",
+      "desc": "以杂志风格展示最新的 Minecraft 信息，主要有 MCW 摘抄、官网博文、新闻等板块，首个应用分标签页设计的主页。",
+      "preset": true
+    }
+  }
+}
